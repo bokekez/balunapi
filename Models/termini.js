@@ -56,4 +56,4 @@ const terminiSchema = new mongoose.Schema({
     }
 })
 
-module.exports = mongoose.model('Subscriber', subscriberSchema)
+module.exports = mongoose.model('termini', terminiSchema)
